@@ -1,0 +1,3 @@
+This is a mini-Project done as a part of the Intership with Garduate Rotation Intership Program (GRIP) at The Sparks Foundation.
+Here we attempt to implement a simple Linear Regresion Model using SCiKitLearn and Python.
+The score obtained by a student is predicted according to the nomber of hours studied per day.
